@@ -1,0 +1,41 @@
+{
+    "id": "8d35014d-6ae2-43ed-9c4f-1f5976ba4887",
+    "nombre": "root",
+    "tipo": "carpeta",
+    "contenido": null,
+    "hijos": [
+        {
+            "id": "7810a99b-7f26-492d-9c3b-3e08eacaca69",
+            "nombre": "documentos",
+            "tipo": "carpeta",
+            "contenido": null,
+            "hijos": [],
+            "fecha_creacion": "2025-12-16 21:53:40"
+        },
+        {
+            "id": "246de41b-1c8c-495a-8a7d-11f616153557",
+            "nombre": "descargas",
+            "tipo": "carpeta",
+            "contenido": null,
+            "hijos": [],
+            "fecha_creacion": "2025-12-16 21:53:40"
+        },
+        {
+            "id": "54d1ed51-a932-45da-b11e-310d7f4f87ef",
+            "nombre": "proyecto_final",
+            "tipo": "archivo",
+            "contenido": null,
+            "hijos": [],
+            "fecha_creacion": "2025-12-16 21:53:40"
+        },
+        {
+            "id": "6f55f66d-e77e-42c5-9de6-c4a1719c639f",
+            "nombre": "propuesta_tesis",
+            "tipo": "archivo",
+            "contenido": null,
+            "hijos": [],
+            "fecha_creacion": "2025-12-16 21:53:40"
+        }
+    ],
+    "fecha_creacion": "2025-12-16 21:53:40"
+}
