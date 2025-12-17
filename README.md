@@ -1,6 +1,6 @@
 **Proyecto_Final:** Árboles
 integrantes:
-Parra Urias Fransev Argenis
+Parra Urias Fransev Argenis<\n>
 Aguilar Millan Ramon Alfonso
 
  **Descripción del proyecto:**
